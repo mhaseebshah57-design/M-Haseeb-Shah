@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>first project</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section>
+        <img src="haseeb.jpg" alt="Haseeb shah">
+        <h1>M Haseeb Shah</h1>
+        <h2>Give me blood, and I will youe freedom</h2>
+    <p>oung man with dark, curly hair and a light brown shirt poses for a selfie against a bright, overcast sky with a brick wall in the background. The composition is a close-up selfie, framing the upper body of the subject from the chest up, with a slightly downward angle as is typical for this style of photography. The man is positioned centrally, filling a significant portion of the frame, creating an intimate and direct connection with the viewer. The action is minimal, focusing on the static pose of the individual. The framing emphasizes the facial features and the upper attire, with the background elements blurred and less prominent.
+    </p>
+    <a href="https://www.tiktok.com/@haseebshahhas" target="_blank"><img src="TikTOk.png" alt="TikTok" id="Tiktok"></a>
+  <a href="https://wa.me/923070713620" target="_blank">
+    <img src="whatsapp.png" alt="WhatsApp" id="whatsapp">
+</a>
+    </section>
+</body>
+</html>
